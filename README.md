@@ -1,8 +1,5 @@
 # disables-assestant
 
-Here's a sample **README** file for your GitHub repository based on the file you uploaded:
-
----
 
 # ذوي الاحتياجات الخاصة
 
